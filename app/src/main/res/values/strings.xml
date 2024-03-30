@@ -1,0 +1,125 @@
+<resources>
+
+    <string name="app_name">Feel Good</string>
+    <string name="day1">Day 1</string>
+
+    <string name="tip1">Gratitude Journaling</string>
+        <string name="description1">Write down three things you are grateful for today.</string>
+    <string name="day2">Day 2</string>
+
+    <string name="tip2">Deep Breathing Exercise</string>
+        <string name="description2">Take 5 minutes to focus on your breath. Inhale deeply, exhale slowly.</string>
+    <string name="day3">Day 3</string>
+
+    <string name="tip3">Mindful Walk</string>
+        <string name="description3">Take a short walk outside. Notice the sights, sounds, and sensations around you.</string>
+    <string name="day4">Day 4</string>
+
+    <string name="tip4">Positive Affirmations</string>
+        <string name="description4">Repeat daily a positive affirmation to yourself. "I am worthy and deserving of love."</string>
+    <string name="day5">Day 5</string>
+
+    <string name="tip5">Digital Detox</string>
+        <string name="description5">Take a break from screens for an hour. Engage in offline activities.</string>
+    <string name="day6">Day 6</string>
+
+    <string name="tip6">Reach Out</string>
+        <string name="description6">Connect with a friend or loved one. Share how you are feeling.</string>
+    <string name="day7">Day 7</string>
+
+    <string name="tip7">Set Boundaries</string>
+    <string name="description7">Say no to something that drains your energy or causes stress.</string>
+    <string name="day8">Day 8</string>
+
+    <string name="tip8">Self-Compassion</string>
+    <string name="description8">Be kind to yourself. Treat yourself with the same kindness you would offer a friend.</string>
+    <string name="day9">Day 9</string>
+
+    <string name="tip9">Healthy Nutrition</string>
+    <string name="description9">Fuel your body with nourishing foods. Eat a balanced meal.</string>
+    <string name="day10">Day 10</string>
+
+    <string name="tip10">Creative Outlet</string>
+    <string name="description10">Engage in a creative activity you enjoy, whether it is drawing, writing, or crafting.</string>
+    <string name="day11">Day 11</string>
+
+    <string name="tip11">Hydration Reminder</string>
+    <string name="description11">Set a drink water reminder. Stay hydrated throughout the day.</string>
+    <string name="day12">Day 12</string>
+
+    <string name="tip12">Mindful Eating</string>
+    <string name="description12">Slow down and savor each bite during your next meal.</string>
+    <string name="day13">Day 13</string>
+
+    <string name="tip13">Physical Activity</string>
+    <string name="description13">Move your body in a way that feels good. Take a dance break or go for a walk.</string>
+    <string name="day14">Day 14</string>
+
+    <string name="tip14">Practice Acceptance</string>
+    <string name="description14">Accept your thoughts and feelings without judgment.</string>
+    <string name="day15">Day 15</string>
+
+    <string name="tip15">Grounding Technique</string>
+    <string name="description15">Name five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste</string>
+    <string name="day16">Day 16</string>
+
+    <string name="tip16">Gratitude Walk</string>
+    <string name="description16">Take a walk and notice the beauty around you. Reflect on what you are grateful for.</string>
+    <string name="day17">Day 17</string>
+
+    <string name="tip17">Stress Relief</string>
+    <string name="description17">Practice progressive muscle relaxation. Tense and release each muscle group in your body.</string>
+    <string name="day18">Day 18</string>
+
+    <string name="tip18">Limit Screen Time</string>
+    <string name="description18">Set boundaries around your screen usage. Schedule screen-free time before bed.</string>
+    <string name="day19">Day 19</string>
+
+    <string name="tip19">Practice Forgiveness</string>
+    <string name="description19">Forgive yourself for past mistakes. Let go of guilt and shame.</string>
+    <string name="day20">Day 20</string>
+
+    <string name="tip20">Nature Connection</string>
+    <string name="description20">Spend time outdoors. Connect with nature and breathe in the fresh air.</string>
+    <string name="day21">Day 21</string>
+
+    <string name="tip21">Journal Prompt</string>
+    <string name="description21">Write about a challenge you overcame and what you learned from it</string>
+    <string name="day22">Day 22</string>
+
+    <string name="tip22">Emotional Check-In</string>
+    <string name="description22">Take a moment to check in with your emotions. How are you feeling right now?</string>
+    <string name="day23">Day 23</string>
+
+    <string name="tip23">Social Connection</string>
+    <string name="description23">Reach out to someone you have not spoken to in a while. Catch up and reconnect.</string>
+    <string name="day24">Day 24</string>
+
+    <string name="tip24">Positive Visualization</string>
+    <string name="description24">Visualize yourself succeeding at a goal or overcoming an obstacle.</string>
+    <string name="day25">Day 25</string>
+
+    <string name="tip25">Celebrating Progress</string>
+    <string name="description25">Celebrate a small victory or accomplishment, no matter how minor. You deserve recognition for your efforts.</string>
+    <string name="day26">Day 26</string>
+
+    <string name="tip26">Gratitude Reflection</string>
+    <string name="description26">Reflect on three things that went well today before bed.</string>
+    <string name="day27">Day 27</string>
+
+    <string name="tip27">Setting Intentions</string>
+    <string name="description27">Set an intention for the day. What do you want to focus on or accomplish?</string>
+    <string name="day28">Day 28</string>
+
+    <string name="tip28">Mindful Listening</string>
+    <string name="description28">Practice active listening in your conversations today. Fully focus on the speaker without distractions.</string>
+    <string name="day29">Day 29</string>
+
+    <string name="tip29">Self-Care Ritual</string>
+    <string name="description29">Engage in a self-care activity that nurtures your mind, body, or spirit.</string>
+    <string name="day30">Day 30</string>
+
+    <string name="tip30">Limit News Consumption</string>
+    <string name="description30">Take a break from news and media outlets. Protect your mental well-being.</string>
+
+</resources>
